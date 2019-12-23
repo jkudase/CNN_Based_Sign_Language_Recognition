@@ -1,1 +1,1 @@
-# CNN_Based_Sign_Language_Recognition
+# CNN_Sign_Language_Detection
