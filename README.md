@@ -1,4 +1,5 @@
-# CNN_Sign_Language_Detection
+# Convolutional Neural Networks based Sign Language Recognition
+
 
 ABSTRACT: A communication problem has always existed between the deaf community and the hearing majority.
 Recent innovations in the fields of computer vision wherein automatic sign language recognition tools have been
