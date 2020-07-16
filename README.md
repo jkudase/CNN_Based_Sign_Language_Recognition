@@ -9,3 +9,5 @@ the particular hand sign in real-time. Our system uses the pre-trained Google’
 transfer learning technique to modify pre-trained neural network to solve the problem. The proposed system
 implements a predictive model built on a sparse data still giving cross validation accuracy of 100%. The system
 achieves an overall of 91% accuracy in real-time recognition.
+
+Journa Article: SLD using CNN_JournalArticle.pdf
