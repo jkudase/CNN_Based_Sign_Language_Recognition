@@ -10,4 +10,4 @@ transfer learning technique to modify pre-trained neural network to solve the pr
 implements a predictive model built on a sparse data still giving cross validation accuracy of 100%. The system
 achieves an overall of 91% accuracy in real-time recognition.
 
-Journa Article: SLD using CNN_JournalArticle.pdf
+Journa Article: https://github.com/jkudase/CNN_Based_Sign_Language_Recognition/blob/master/SLD%20using%20CNN_JournalArticle.pdf
